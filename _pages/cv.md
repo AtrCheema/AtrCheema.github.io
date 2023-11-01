@@ -28,7 +28,7 @@ Thesis titles:
 Experience
 ==========
 
-* Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2023 -
+* Postdoc Researcher at KAUST from Sept 2023 -
   * data-driven modeling of hydrological extreme events
 
 * Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2022 - Aug 2023
