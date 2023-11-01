@@ -87,8 +87,8 @@ author:
   name             : "Ather Abbas"
   avatar           : "profile_pic.jpg"
   bio              : "PhD in Artificial intelligence in surface water resources"
-  location         : "Ulsan"
-  employer         : "UNIST"
+  location         : "Thuwal"
+  employer         : "KAUST"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=en&oi=sra"
   email            :
@@ -107,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0031-745X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

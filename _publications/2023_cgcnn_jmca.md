@@ -5,7 +5,7 @@ permalink: /publication/2023_cgcnn_jmca
 excerpt: ''
 date: 2023-01-01
 venue: 'Journal of Materials Chemistry A'
-paperurl: 'https://doi.org/10.1016/j.jhazmat.2022.130031'
+paperurl: 'https://doi.org/10.1039/D3TA00019B'
 citation: 'Jaffari, Z. H., Abbas, A., Umar, M., Kim, E-S., & Cho, K. H. (2023).
     Crystal graph convolution neural networks for fast and accurate prediction of adsorption ability of Nb2CTx towards Pb(II) and Cd(II) ions'
 ---

@@ -28,7 +28,10 @@ Thesis titles:
 Experience
 ==========
 
-* Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2022 -
+* Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2023 -
+  * data-driven modeling of hydrological extreme events
+
+* Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2022 - Aug 2023
   * data driven modeling of water quality
   * data driven modeling of wastewater treatment
 
