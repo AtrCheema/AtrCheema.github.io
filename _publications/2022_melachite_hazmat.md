@@ -19,4 +19,4 @@ was further analyzed using partial dependence plots, feature interaction plotsnd
 plots.
 
 
-[Download paper here](https://gmd.copernicus.org/articles/15/3021/2022/gmd-15-3021-2022.pdf)
+[Download paper here](https://doi.org/10.1016/j.jhazmat.2022.130031)
