@@ -16,4 +16,4 @@ and water treatment.
 
 News
 ----------
-* Joined KUAST as postdoc researcher.
+* Introducing [AquaFetch](https://github.com/hyex-research/AquaFetch), A Unified Python Interface for Water Resource Data Acquisition.
