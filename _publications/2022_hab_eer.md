@@ -1,7 +1,7 @@
 ---
 title: "Inland harmful algal blooms (HABs) modeling using internet of things (IoT) system and deep learning"
 collection: publications
-permalink: /publication/2022_ai4water
+permalink: /publication/2022_hab_eer
 excerpt: ''
 date: 2022-01-26
 venue: 'Environmental Engineering Research'

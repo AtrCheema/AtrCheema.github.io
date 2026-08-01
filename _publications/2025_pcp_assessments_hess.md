@@ -1,15 +1,25 @@
 ---
-title: "Comprehensive Global Assessment of 23 Gridded Precipitation Datasets Across 16,295 Catchments Using Hydrological Modeling"
+title: "Comprehensive Global Assessment of 24 Gridded Precipitation Datasets Across 18,428 Catchments Using Hydrological Modeling"
 collection: publications
 permalink: /publication/2025_pcp_assessments_hess
 excerpt: ''
-date: 2025-06-01
-venue: 'HESS'
-paperurl: 'https://doi.org/10.5194/egusphere-2024-4194'
-citation: 'Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., Ji, H., ... & Beck, H. E. (2025). Comprehensive global assessment of 23 gridded precipitation datasets across 16,295 catchments using hydrological modeling. EGUsphere, 2025, 1-31.'
+date: 2026-06-03
+venue: 'Hydrology and Earth System Sciences'
+paperurl: 'https://doi.org/10.5194/hess-30-3399-2026'
+citation: 'Abbas, A., Yang, Y., Pan, M., Tramblay, Y., Shen, C., Ji, H., Gebrechorkos, S. H., Pappenberger, F.,
+    Pyo, J., Feng, D., Huffman, G., Nguyen, P., Massari, C., Brocca, L., Tan, J., & Beck, H. E. (2026).
+    Comprehensive global assessment of 24 gridded precipitation datasets across 18 428 catchments using
+    hydrological modeling. Hydrology and Earth System Sciences, 30(11), 3399-3423.'
 ---
 
-This study evaluated 23 precipitation datasets using a hydrological model at global scale to assess their suitability and accuracy. We found that MSWEP V2.8 excels due to its ability to integrate data from multiple sources, while others, such as IMERG and JRA-3Q, demonstrated strong regional performances. This research assists in selecting the appropriate dataset for applications in water resource management, hazard assessment, agriculture, and environmental monitoring.
+Dozens of datasets now estimate how much rain falls anywhere on Earth, built from satellites, weather
+models and ground-based gauges, yet anyone needing to pick one has had little solid basis for the choice.
+This study ran the largest such comparison to date: each of 24 datasets was fed in turn into the same
+rainfall-to-river-flow model across 18,428 river basins worldwide, and judged on how closely the flows it
+produced matched flows actually measured at gauges. MSWEP version 2.8 — which merges several sources and
+corrects them against ground gauges — came out best overall, ahead of the strongest satellite-only
+product, which pairs soil-moisture-derived rainfall with microwave readings, and the strongest
+weather-model reanalysis. Scores varied systematically between climates, so the study also shows which
+dataset to prefer in a given part of the world, not just which is best on average.
 
-
-[Download paper here](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-4194/egusphere-2024-4194.pdf)
+[Download paper here](https://hess.copernicus.org/articles/30/3399/2026/hess-30-3399-2026.pdf)
