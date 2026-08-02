@@ -1,12 +1,14 @@
 ---
 title: "Transformer-based deep learning models for adsorption capacity prediction of heavy metal ions toward biochar-based adsorbents"
 collection: publications
-permalink: /publication/2023_transformer_hazmat
+permalink: /publication/2024_transformer_hazmat
 excerpt: ''
-date: 2023-09-01
-venue: 'Journal of Hazardous materials'
+date: 2024-01-01
+venue: 'Journal of Hazardous Materials'
 paperurl: 'https://doi.org/10.1016/j.jhazmat.2023.132773'
-citation: ''
+citation: 'Jaffari, Z. H., Abbas, A., Kim, C.-M., Shin, J., Kwak, J., Son, C., Lee, Y.-G., Kim, S., Chon, K., & Cho, K. H. (2024). 
+    Transformer-based deep learning models for adsorption capacity prediction of heavy metal ions toward biochar-based adsorbents. 
+    Journal of Hazardous Materials, 462, 132773.'
 ---
 
 This study compares application two transformer based architures (Tab-Transformer and FT-Transformer)

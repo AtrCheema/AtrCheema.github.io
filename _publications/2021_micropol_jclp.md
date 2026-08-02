@@ -1,7 +1,7 @@
 ---
 title: "Developing a deep learning model for the simulation of micro-pollutants in a watershed"
 collection: publications
-permalink: /publication/2021_micropol
+permalink: /publication/2021_micropol_jclp
 excerpt: ''
 date: 2021-06-01
 venue: 'Journal of Cleaner Production'

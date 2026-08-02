@@ -3,11 +3,12 @@ title: "Prediction and interpretation of pathogenic bacteria occurrence at a rec
 collection: publications
 permalink: /publication/2023_bact_ecoinf
 excerpt: ''
-date: 2023-08-01
+date: 2023-12-01
 venue: 'Ecological Informatics'
-paperurl: 'https://authors.elsevier.com/c/1i5qV5c6cL2WXM'
-citation: 'Jang, J., Abbas, A., Kim, H., Rhee, C., Shin, S. G., Chun, J. A., ... & Cho, K. H. (2023). 
-Prediction and interpretation of pathogenic bacteria occurrence at a recreational beach using data-driven algorithms. Ecological Informatics, 102370.'
+paperurl: 'https://doi.org/10.1016/j.ecoinf.2023.102370'
+citation: 'Jang, J., Abbas, A., Kim, H., Rhee, C., Shin, S. G., Chun, J. A., Baek, S., & Cho, K. H. (2023). 
+    Prediction and interpretation of pathogenic bacteria occurrence at a recreational beach using data-driven algorithms. 
+    Ecological Informatics, 78, 102370.'
 ---
 The goal of this work is to compare different conventional (tree based) machine learning algorithms with
 deep learning architectures (IA-LSTM and TFT). The comparison is done in terms of their prediction accuracy, interpretation
@@ -22,4 +23,4 @@ However, the attention maps from these architectures (IA-LSTM and TFT) provide d
 important predictors for each sample.
 
 
-[Download paper here](https://authors.elsevier.com/c/1i5qV5c6cL2WXM)
+[Download paper here](https://doi.org/10.1016/j.ecoinf.2023.102370)

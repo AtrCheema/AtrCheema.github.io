@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Global Assessment of 24 Gridded Precipitation Datasets Across 18,428 Catchments Using Hydrological Modeling"
 collection: publications
-permalink: /publication/2025_pcp_assessments_hess
+permalink: /publication/2026_pcp_assessments_hess
 excerpt: ''
 date: 2026-06-03
 venue: 'Hydrology and Earth System Sciences'

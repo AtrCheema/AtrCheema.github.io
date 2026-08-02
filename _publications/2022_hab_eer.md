@@ -8,7 +8,7 @@ venue: 'Environmental Engineering Research'
 paperurl: 'https://doi.org/10.4491/eer.2021.280'
 citation: 'Kwon, D. H., Hong, S. M., Abbas, A., Pyo, J., Lee, H. K., Baek, S. S., & Cho, K. H. (2023). 
     Inland harmful algal blooms (HABs) modeling using internet of things (IoT) system and deep learning. 
-    Environmental Engineering Research, 28(1).'
+    Environmental Engineering Research, 28(1), 210280.'
 ---
 This paper uses LSTM for simulation of chlorophyll-a and phycocyanin in Daechung reservoir, South Korea.
 

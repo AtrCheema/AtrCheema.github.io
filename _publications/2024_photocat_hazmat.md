@@ -1,14 +1,14 @@
 ---
 title: "Machine learning analysis to interpret the effect of the photocatalytic reaction rate constant (k) of semiconductor-based photocatalysts on dye removal"
 collection: publications
-permalink: /publication/2023_kim_hazmat
+permalink: /publication/2024_photocat_hazmat
 excerpt: ''
-date: 2023-10-01
+date: 2024-03-01
 venue: 'Journal of Hazardous Materials'
 paperurl: 'https://doi.org/10.1016/j.jhazmat.2023.132995'
-citation: 'Kim, C. M., Jaffari, Z. H., Abbas, A., Chowdhury, M. F., & Cho, K. H. (2023). 
-Machine learning analysis to interpret the effect of the photocatalytic reaction rate constant (k) of
-semiconductor-based photocatalysts on dye removal. Journal of Hazardous Materials, 132995.'
+citation: 'Kim, C. M., Jaffari, Z. H., Abbas, A., Chowdhury, M. F., & Cho, K. H. (2024). 
+    Machine learning analysis to interpret the effect of the photocatalytic reaction rate constant (k) of
+    semiconductor-based photocatalysts on dye removal. Journal of Hazardous Materials, 465, 132995.'
 ---
 This paper involves modeling removal of dye from wastewater using photocatalysis. The predictors
 consisted of 38 parameters ranging from experimental to physical parameters which can affect
@@ -19,4 +19,4 @@ model-agnostic interpretation method (SHAP). The interaction effect of various p
 onto reaction rate constant was analyzed using SHAP interaction plots.
 
 
-[Download paper here](https://gmd.copernicus.org/articles/15/3021/2022/gmd-15-3021-2022.pdf)
+[Download paper here](https://doi.org/10.1016/j.jhazmat.2023.132995)

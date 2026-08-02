@@ -3,7 +3,7 @@ title: "SeqMetrics: a unified library for performance metrics calculation in Pyt
 collection: publications
 permalink: /publication/2024_seqmetrics_joss
 excerpt: ''
-date: 2024-07-23
+date: 2024-07-30
 venue: 'Journal of Open Source Software'
 paperurl: 'https://doi.org/10.21105/joss.06450'
 citation: 'Rubab, F., Iftikhar, S., & Abbas, A. (2024). SeqMetrics: a unified library for performance metrics calculation in Python. Journal of Open Source Software, 9(99), 6450.'

@@ -1,9 +1,9 @@
 ---
 title: "Deep learning-based algorithms for long-term prediction of chlorophyll-a in catchment streams"
 collection: publications
-permalink: /publication/2022-chla
+permalink: /publication/2023_chla_joh
 excerpt: ''
-date: 2023-10-01
+date: 2023-11-01
 venue: 'Journal of Hydrology'
 paperurl: 'https://doi.org/10.1016/j.jhydrol.2023.130240'
 citation: 'Abbas, A., Park, M., Baek, S. S., & Cho, K. H. (2023). 

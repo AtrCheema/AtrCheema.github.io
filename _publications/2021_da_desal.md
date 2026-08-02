@@ -3,7 +3,7 @@ title: "Dual-stage attention-based LSTM for simulating performance of brackish w
 collection: publications
 permalink: /publication/2021_da_desal
 excerpt: ''
-date: 2021-10-01
+date: 2021-09-01
 venue: 'Desalination'
 paperurl: 'https://doi.org/10.1016/j.desal.2021.115107'
 citation: 'Yoon, N., Kim, J., Lim, J. L., Abbas, A., Jeong, K., & Cho, K. H. (2021). 

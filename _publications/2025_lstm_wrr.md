@@ -1,7 +1,7 @@
 ---
 title: "Global Daily Discharge Estimation Based on Grid Long Short-Term Memory (LSTM) Model and River Routing"
 collection: publications
-permalink: /publication/2025_lstm_wrr.md
+permalink: /publication/2025_lstm_wrr
 excerpt: ''
 date: 2025-06-16
 venue: 'Water Resources Research'

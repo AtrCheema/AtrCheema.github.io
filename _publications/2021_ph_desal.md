@@ -1,7 +1,7 @@
 ---
 title: "Deep learning for pH prediction in water desalination using membrane capacitive deionization"
 collection: publications
-permalink: /publication/2021_ph_desal.md
+permalink: /publication/2021_ph_desal
 excerpt: ''
 date: 2021-11-01
 venue: 'Desalination'

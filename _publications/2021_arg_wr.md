@@ -3,7 +3,7 @@ title: "Prediction of antibiotic-resistance genes occurrence at a recreational b
 collection: publications
 permalink: /publication/2021_arg_wr
 excerpt: ''
-date: 2021-10-01
+date: 2021-05-01
 venue: 'Water Research'
 paperurl: 'https://doi.org/10.1016/j.watres.2021.117001'
 citation: 'Jang, J., Abbas, A., Kim, M., Shin, J., Kim, Y. M., & Cho, K. H. (2021). 
