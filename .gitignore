@@ -1,2 +1,8 @@
 _site/
 .idea/
+
+.claude/
+
+_publications/submitted/
+_publications/accepted/
+_applications/
