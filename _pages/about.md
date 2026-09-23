@@ -10,9 +10,7 @@ redirect_from:
 
 About me
 -------------
-I work at the intersection of water sciences and machine learning. I am interested in application of data-driven
-approaches to solve problems related to water resources with special focus on surface water quality, catchment dynamics
-and water treatment.
+I work at the intersection of water resources and machine learning. I am interested in the integration of data-driven approaches with process-based models to solve problems related to surface water resources, with a particular focus on hydrologic extremes, surface water quality, and wastewater treatment.
 
 News
 ----------
