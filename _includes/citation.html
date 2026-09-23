@@ -1,0 +1,11 @@
+{%- comment -%}
+Renders a citation with the site author's own name emphasised, so that the
+author's position in the author list is easy to spot. The name forms that get
+emphasised are listed under `author.citation_names` in _config.yml.
+{%- endcomment -%}
+{%- assign citation_text = include.citation -%}
+{%- for name in site.author.citation_names -%}
+  {%- capture emphasised_name -%}<strong>{{ name }}</strong>{%- endcapture -%}
+  {%- assign citation_text = citation_text | replace: name, emphasised_name -%}
+{%- endfor -%}
+{{- citation_text -}}

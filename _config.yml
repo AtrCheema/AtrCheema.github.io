@@ -90,6 +90,9 @@ author:
   location         : "Thuwal"
   employer         : "KAUST"
   employer_url     : "https://www.kaust.edu.sa/"
+  citation_names   :  # emphasised in "Recommended citation" lines
+    - "Abbas, A."
+    - "Abass, A."  # name misspelt by the journal in 2021_ph_desal
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=en&oi=sra"
   email            :
