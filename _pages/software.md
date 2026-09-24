@@ -20,6 +20,15 @@ Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https:
 Documentation:  [![Documentation Status](https://readthedocs.org/projects/ai4water/badge/?version=latest)](https://ai4water.readthedocs.io/en/latest/?badge=latest)
 
 
+AquaFetch
+---------
+
+Automated downloading, parsing, cleaning and harmonization of around 70 freely available
+water resource datasets covering rainfall-runoff, surface water quality and wastewater treatment.
+Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/hyex-research/AquaFetch)
+Documentation: [![Documentation Status](https://readthedocs.org/projects/aquafetch/badge/?version=latest)](https://aquafetch.readthedocs.io/en/latest/?badge=latest)
+
+
 SeqMetrics
 -----------
 
